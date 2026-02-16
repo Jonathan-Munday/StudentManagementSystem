@@ -9,4 +9,4 @@ Open the project in NetBeans IDE.
 
 Ensure the package name is za.ac.cput.studentmanagementsystem.
 
-Run the Main.java file to see the student details and tuition calculations printed in the console.
+Run the StudentManagementSystem.java file to see the student details and tuition calculations printed in the console.
